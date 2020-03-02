@@ -1,0 +1,37 @@
+.margin {
+margin-left: 60px;
+}
+.container {
+background-color: white;
+margin-left: 150px;
+margin-right: 150px;
+}
+.container2 {
+margin-left: 150px;
+margin-right: 150px;
+}
+body {
+background-color: blueviolet;
+width: 960px;
+}
+.child1 {
+padding-right: 150px;
+display: inline-flex;
+background-color: #4aaaa5;
+text-align: center;
+}
+.child2 {
+display: inline-flex;
+text-align: end;
+}
+p {
+padding-top: 2px;
+padding-bottom: 2px;
+}
+h1 {
+font-style: italic;
+}
+img {
+width: 200px;
+height: 200px;
+}
