@@ -1,29 +1,28 @@
-.margin {
-margin-left: 60px;
-}
 .container {
 background-color: white;
 margin-left: 150px;
 margin-right: 150px;
 }
 .container2 {
+background-color: white;
 margin-left: 150px;
 margin-right: 150px;
-background-color: white;
 }
 body {
-background-color: blueviolet;
+background-image: url(canadian-dollar.png);
 width: 960px;
+
 }
 .child1 {
-padding-right: 150px;
 display: inline-flex;
 background-color: #4aaaa5;
-text-align: center;
+width: 200px;
+font-size: 15px;
 }
 .child2 {
 display: inline-flex;
 text-align: end;
+color: #777777;
 }
 .child3 {
 display: inline-flex;   
@@ -39,8 +38,8 @@ padding-bottom: 2px;
 h1 {
 font-weight: bold;
 color: white;
+margin-left: 15px;
 }
-
 img {
 width: 200px;
 height: 200px;
