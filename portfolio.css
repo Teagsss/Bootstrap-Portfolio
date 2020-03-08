@@ -46,6 +46,10 @@ margin-left: 30px;
 margin-top: 15px;
 padding-top: 10px;
 }
+h3 {
+color: #777777;
+padding:
+}
 img {
 width: 150px;
 height: 150px;
@@ -78,4 +82,8 @@ footer {
     padding-top: 25px;
     text-align: center;
     margin-top: 35px;
+}
+button {
+background-color:  #666666;
+color: white;
 }
